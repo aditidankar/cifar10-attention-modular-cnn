@@ -42,7 +42,7 @@ The model was trained for 50 epochs. The validation loss consistently tracked th
 ## ⚙️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cifar10-modular-cnn.git
+   git clone https://github.com/aditidankar/cifar10-attention-modular-cnn.git
    ```
 ---
 
